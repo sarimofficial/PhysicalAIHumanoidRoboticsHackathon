@@ -120,9 +120,9 @@ const config: Config = {
             },
             {
               label: 'instagram',
-              href: 'https://www.instagram.com/mrsarimofficial/',
+              href: 'https://www.instagram.com/mrsarimofficial',
             },
-          ],
+          ]
         },
         {
           title: 'More',
