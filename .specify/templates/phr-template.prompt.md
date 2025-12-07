@@ -15,11 +15,11 @@ links:
   ticket: {{LINKS_TICKET}}
   adr: {{LINKS_ADR}}
   pr: {{LINKS_PR}}
-files:
-{{FILES_YAML}}
+<!-- files:
+  "{{FILES_YAML}}"
 tests:
-{{TESTS_YAML}}
----
+  "{{TESTS_YAML}}"
+--- -->
 
 ## Prompt
 
